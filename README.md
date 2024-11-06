@@ -6,7 +6,7 @@ This project demonstrates a real-time streaming pipeline using modern big data t
 ## Technologies Used
 - Apache Kafka
 - Apache Zookeeper
-- Apache Airflow
+- Apache Airflow (Running on PostgreSQL)
 - Apache Spark
 - Cassandra
 - Docker Compose
